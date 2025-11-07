@@ -1,6 +1,4 @@
-<footer
-  style={{ backgroundColor: "blue", color: "white", textAlign: "center" }}
->
+<footer>
   <p>© 2023 City Lovers</p>
 </footer>;
 

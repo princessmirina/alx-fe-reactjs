@@ -1,4 +1,4 @@
-<main style={{ backgroundColor: "gray", color: "white", textAlign: "center" }}>
+<main>
   <p>I love to visit New York, Paris, and Tokyo.</p>
 </main>;
 
