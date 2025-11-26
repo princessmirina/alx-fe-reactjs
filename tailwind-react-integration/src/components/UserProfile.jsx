@@ -6,7 +6,7 @@ const UserProfile = () => {
         alt="User"
         className="rounded-full w-36 h-36 mx-auto"
       />
-      <h1 className="text-lg text-blue-800 my-4">John Doe</h1>
+      <h1 className="text-blue-800 text-xl my-4">John Doe</h1>
       <p className="text-gray-600 text-base">
         Developer at Example Co. Loves to write code and explore new
         technologies.
