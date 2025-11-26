@@ -1,6 +1,6 @@
 const UserProfile = () => {
   return (
-    <div className="user-profile bg-gray-100 p-8 max-w-sm mx-auto my-20 shadow-lg">
+    <div className="user-profile bg-gray-100 p-8 max-w-sm mx-auto my-20 rounded-lg shadow-lg">
       <img
         src="https://placeholder.co/150x150"
         alt="User"
